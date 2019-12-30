@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: mzz2017
+Label: v2raya
+Suite: stable
+Codename: v2raya
+Date: Mon, 30 Dec 2019 14:53:53 UTC
+Architectures: amd64
+Components: main
+Description: https://github.com/mzz2017/v2raya
+MD5Sum:
+ 884f017584c222c960b62cc5686a3890 559 main/binary-amd64/Packages
+ 6958b544c75de17a96be5d7d4341c07a 384 main/binary-amd64/Packages.gz
+ 2b25a3cfcd41f48bb57bc7a02af6290c 129 main/binary-amd64/Release
+SHA1:
+ 9bcb30a042a9188d0711cf3b76bbcd9b58c46e29 559 main/binary-amd64/Packages
+ f3a83206fa4f22539ce3d24c6f946bff0df6179f 384 main/binary-amd64/Packages.gz
+ 1a3c3151d34938adaddf3c2ca908cc149b92f0b4 129 main/binary-amd64/Release
+SHA256:
+ f7a735cce331e1b07c1bff383a6629b0010b7a4da366f5390f57a8d87d68361b 559 main/binary-amd64/Packages
+ a284594bd6a685a739289421ab21070f77be21de6de798e2a179743956cc8335 384 main/binary-amd64/Packages.gz
+ 81f34212cd3d21b01575b3781a7c0208fa01b571cc0647b475caa2b6268906a8 129 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJeCg+BAAoJEKd+zOIql7a8/4oIAMTDJz1H/sbcXBe/XDqBlo45
+ko/7uIPJVcZilYpH6rQEcdrtdix8260chwjFfICtX0UPpzim7y44ylvUYNv7spW9
+QNq9PuxSO586Vw19w2wMaf2CCw3lR4UpUHxMUCO7VL/a4Vl/ZvwvGLtmsxIV2mDr
+6/2lwEvv8tEmFaJp7tyxsGPItMPjKzTcYd5yn0gIjv5zycTf2q1a7rPWDs+/w93B
+AlJ/izXsLTBy85WDKYAFXFI577xAjZqgADFLlw+fmyr+L6pGBZC30jeU9epsrnYb
+a2s1FfgUb5ssI3Cug3gmA2NAA4KTosmFtQrGZPoak/mWZ1HvORFmfvMO41SYlXI=
+=puIn
+-----END PGP SIGNATURE-----
